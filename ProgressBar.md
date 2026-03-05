@@ -1,6 +1,11 @@
  <a  target="_blank"
   rel="noopener noreferrer" href="https://namastedev.com/practice/progress-bar">Question</a>
-    
+
+
+  # answer 
+
+  
+``` javascript    
 import React, { useEffect, useState } from 'react';
 
 function ProgressBar() {
@@ -67,3 +72,4 @@ function ProgressBar() {
 }
 
 export default ProgressBar;
+```
