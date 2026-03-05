@@ -1,7 +1,7 @@
 
-Question - 
-    <a> https://namastedev.com/practice/progress-bar
- </a>
+
+     <a href="https://namastedev.com/practice/progress-bar">Question</a>
+    
 import React, { useEffect, useState } from 'react';
 
 function ProgressBar() {
