@@ -1,6 +1,5 @@
-
-
-     <a href="https://namastedev.com/practice/progress-bar">Question</a>
+ <a  target="_blank"
+  rel="noopener noreferrer" href="https://namastedev.com/practice/progress-bar">Question</a>
     
 import React, { useEffect, useState } from 'react';
 
