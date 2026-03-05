@@ -1,7 +1,7 @@
 <img width="1066" height="1594" alt="image" src="https://github.com/user-attachments/assets/53593434-5ddf-4387-804a-15bf5b25d66d" />
 
 
-```
+``` javascript
 import React, { useState } from 'react';
 
 export const checkPasswordStrength = (value) => {
